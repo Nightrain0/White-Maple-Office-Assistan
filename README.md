@@ -1,8 +1,5 @@
 # White Maple Office Assistant (白枫办公助手) 🍁
 
-[](https://www.google.com/search?q=LICENSE)
-[](https://mp.weixin.qq.com/)
-
 **白枫办公助手** 是一款基于微信原生开发 + 微信云开发 (CloudBase) 的全能型办公效率工具小程序。旨在为用户提供便捷的图像处理和文字识别服务，无需下载繁琐的 App，即用即走。
 
 ## ✨ 核心功能 (Features)
@@ -67,10 +64,7 @@
 
 ### 2\. 本地配置
 
-1.  克隆本项目到本地：
-    ```bash
-    git clone https://github.com/your-username/white-maple-office.git
-    ```
+1.  克隆本项目到本地
 2.  在微信开发者工具中导入项目根目录。
 3.  修改 `project.config.json` 中的 `appid` 为你自己的小程序 AppID。
 4.  修改 `miniprogram/app.js` 中的 `env` 为你的云开发环境 ID。
