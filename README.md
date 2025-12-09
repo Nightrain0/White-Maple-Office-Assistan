@@ -1,5 +1,3 @@
------
-
 # White Maple Office Assistant (白枫办公助手) 🍁
 
 [](https://www.google.com/search?q=LICENSE)
@@ -138,5 +136,3 @@
 ## 📄 许可证 (License)
 
 MIT License
-
------
