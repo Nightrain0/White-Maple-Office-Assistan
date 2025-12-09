@@ -7,7 +7,7 @@ cloud.init({
 });
 
 // 你的 Remove.bg API Key
-const API_KEY = 'P5QEtWoESb1JJ87YXZzHPPCj';
+const API_KEY = process.env.REMOVE_BG_KEY;
 
 // 颜色映射配置
 const COLOR_MAP = {
@@ -101,4 +101,5 @@ exports.main = async (event, context) => {
       error: err.message
     };
   }
+
 };
